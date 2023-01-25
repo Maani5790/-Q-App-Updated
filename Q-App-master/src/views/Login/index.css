@@ -1,0 +1,31 @@
+.login_container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+.login_row {
+  /* width: 1200px; */
+  height: 350px;
+}
+.banner_img {
+  width: 150px;
+}
+.login_info {
+  border: 2px solid #4ecbc7;
+  /* padding-top: 100px !important; */
+}
+.color {
+  color: #4ecbc7 !important;
+}
+.login_banner {
+  border: 2px solid #4ecbc7;
+}
+.SignIn_Btn {
+  background-color: #3f62a9;
+  border-color: #3f62a9;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px 10px;
+}
